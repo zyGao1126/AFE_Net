@@ -7,5 +7,5 @@ $ make
 $ GFENet_FPGA ./test.jpg
 ```
 
-* for float32 repo, I use float32 data to build FPGA accelerator. You can add responding files on Vivado HLS and generator responding IP.
+* for float32 repo, I use float32 data to build FPGA accelerator. You can add files on Vivado HLS and generator corresponding IP.
 * for int8 repo, I use data which have been quantized to build FPGA accelerator. 
