@@ -13,7 +13,7 @@ see more details in [README](https://github.com/zyGao1126/AFE_Net/blob/master/hl
 ### 3. Vivado Block Design
 see more details in [README](https://github.com/zyGao1126/AFE_Net/blob/master/vivado/README.md)
 
-### 4. run on FPGA
+### 4. Run on FPGA
 
 
 
